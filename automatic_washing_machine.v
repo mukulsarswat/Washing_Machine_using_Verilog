@@ -1,6 +1,5 @@
 
 `timescale 10ns / 1ps
-
 module automatic_washing_machine (
     input clk,                    // Clock signal for synchronous operation
     input reset,                  // Active-high reset to initialize the FSM
