@@ -17,7 +17,8 @@ This repository contains a Verilog implementation of a finite state machine (FSM
 
 ## State Diagram
 The state diagram visually represents the **finite state machine (FSM)** controlling the washing machine. Each state corresponds to a **specific phase** in the washing process, and **transitions occur** based on **input signals and conditions**. By examining the diagram, one can easily understand the flow of operations and the logic behind each transition.
-[STATE DIAGRAM](https://photos.app.goo.gl/h7nMr9zVRyude6c2A)
+[STATE DIAGRAM](https://photos.app.goo.gl/YGNa1MRxVMvZLV9VA)
+
 
 ## Module Description
 ### `automatic_washing_machine`
