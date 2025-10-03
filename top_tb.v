@@ -135,7 +135,7 @@ module top_tb;
         #10 drained = 1;                // Water drained (t=685, 6,850,000 ps)
         #10 spin_timeout = 1;           // Spin cycle complete (t=695, 6,950,000 ps)
 
-        // Test Case 8: Multiple cycles ======================================================================
+        // Test Case 8: Multiple cycles =================================================================
         #10 reset = 1;                  // Reset to start fresh (t=705, 7,050,000 ps)
         #5 reset = 0;                   // Deassert reset (t=710, 7,100,000 ps)
         #5 start = 1; door_close = 1;   // Start first cycle (t=715, 7,150,000 ps)
